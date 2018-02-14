@@ -1,0 +1,9 @@
+Building Stake
+
+See doc/readme-qt.rst for instructions on building Stake QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Stake.
+
+See doc/build-*.txt for instructions on building staked,
+the intended-for-services, no-graphical-interface, reference
+implementation of Stake.
